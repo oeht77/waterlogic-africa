@@ -1,0 +1,5 @@
+git add path to assets
+git add assets
+git status
+git commit-m"add assets folder to main branch
+git push origin main
